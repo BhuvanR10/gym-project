@@ -50,3 +50,11 @@ cd gym-project
 ## Expiring Memberships
 <img width="1917" height="788" alt="Screenshot 2026-02-16 214527" src="https://github.com/user-attachments/assets/75848d22-a35c-4a67-b194-d33f557784e7" />
 
+# Notifications
+## Welcome and Expire notifications
+<img width="500" height="940" alt="Welcome notification" src="https://github.com/user-attachments/assets/c5e7da94-430a-442c-89c8-c33d18e223bf" />
+<img width="500" height="940" alt="expires today notification" src="https://github.com/user-attachments/assets/ab4e6ef8-746a-4a2e-91d5-d6727dbbebeb" >
+<img width="500" height="940" alt="expires 3days notification" src="https://github.com/user-attachments/assets/7de7e3eb-da39-4063-8cc8-a80a62f1a4a5" />
+<img width="500" height="940" alt="expires 7days notification" src="https://github.com/user-attachments/assets/c6bdb4fb-383c-4ad6-a819-fb445202e4fe" />
+
+
