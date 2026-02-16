@@ -2,7 +2,7 @@
 
 A full-stack Gym Management Web Application built using:
 
-- Frontend: React.js
+- Frontend: React.js + HTML + CSS
 - Backend: Node.js
 - Database: MySQL 
 
